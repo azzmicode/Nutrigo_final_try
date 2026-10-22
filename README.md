@@ -21,7 +21,7 @@ Aplikasi antarmuka web *client-side* interaktif yang berfokus di pemrosesan data
 2. Buka folder direktori proyek.
 3. Jalankan file `index.html` di browser Anda, atau gunakan ekstensi *Live Server* pada teks editor.
 
-## Made by
-# Khafidz Ulil Azmi 25110100049
-# Putri 25110300014
-# Radif Mafazi 25110300039
+# Made by
+- Khafidz Ulil Azmi 25110100049
+- Putri 25110300014
+- Radif Mafazi 25110300039
