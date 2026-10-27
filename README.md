@@ -3,7 +3,7 @@
 Aplikasi antarmuka web *client-side* interaktif yang berfokus di pemrosesan data dan interaksi pengguna melalui manipulasi DOM.
 
 ## 🔗 Live Demo
-[Lihat Nutrigo secara langsung](https://azzmicode.github.io/Nutrigo_Dom_Manipulation/)
+[Lihat Nutrigo secara langsung](https://azzmicode.github.io/Nutrigo_final_try/)
 
 ## ✨ Fitur Utama
 * **Interaksi Dinamis:** Menggunakan DOM Manipulation murni tanpa framework untuk memperbarui elemen visual secara *real-time*.
